@@ -1,1 +1,1 @@
-# Apple-Vision-Pro-Website-  This is aclone website of a original Apple  vision pro website.
+# Apple-Vision-Pro-Website-  This is a clone website of a original Apple  vision pro website.
